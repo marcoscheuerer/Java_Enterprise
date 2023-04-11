@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;mao.linatrix.Hello&apos; to &apos;Main&apos;&#x0A;- Original project: &apos;S08L01_Classes_Part_1&apos;&#x0A;- Original element: &apos;mao.linatrix.Hello&apos;&#x0A;- Renamed element: &apos;mao.linatrix.Main&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Hello&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;mao.linatrix{Hello.java[Hello" matchStrategy="1" name="Main" qualified="false" references="true" similarDeclarations="false" stamp="1681058263849" textual="false" version="1.0"/>
+</session>

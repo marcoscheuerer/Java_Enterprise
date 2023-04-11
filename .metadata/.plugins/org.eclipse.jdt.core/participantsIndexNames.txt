@@ -1,0 +1,13 @@
+INDEX VERSION 1.131
+/home/marco/Workspace/Enterprise/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4114424689.index
+/S01L08_JSP_scriptlets/src/main/java
+/home/marco/Workspace/Enterprise/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1259624089.index
+/S01L10_JSP_comment/src/main/java
+/home/marco/Workspace/Enterprise/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3815325943.index
+/S01L09_JSP_declarations/src/main/java
+/home/marco/Workspace/Enterprise/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4115026952.index
+/S01L07_JSP_expression/src/main/java
+/home/marco/Workspace/Enterprise/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3015487342.index
+/S01L11_JSP_Directive/src/main/java
+/home/marco/Workspace/Enterprise/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/663998449.index
+/S01L05_Hello_JSP/src/main/java

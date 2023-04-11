@@ -1,0 +1,13 @@
+package mao.linatrix;
+
+public class Car {
+	// Properties (States)
+	private String doors;
+	private String engine;
+	private String driver;
+	private int speed;
+	
+	// Functionalities (Behaviours)
+	
+	
+}

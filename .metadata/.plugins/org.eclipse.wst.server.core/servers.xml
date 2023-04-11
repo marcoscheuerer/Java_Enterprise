@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v10.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v10.0 Server at localhost" name="Tomcat v10.0 Server at localhost" runtime-id="Apache Tomcat v10.0" server-type="org.eclipse.jst.server.tomcat.100" server-type-id="org.eclipse.jst.server.tomcat.100" start-timeout="60" stop-timeout="15" testEnvironment="true" timestamp="15">
+    <list key="modules" value0="S01L09_JSP_declarations::org.eclipse.jst.jee.server:S01L09_JSP_declarations::jst.web::4.0" value1="S01L08_JSP_scriptlets::org.eclipse.jst.jee.server:S01L08_JSP_scriptlets::jst.web::4.0" value2="S01L10_JSP_comment::org.eclipse.jst.jee.server:S01L10_JSP_comment::jst.web::4.0" value3="S01L12_Annotations::org.eclipse.jst.jee.server:S01L12_Annotations::jst.web::3.0" value4="S01L12_Deployment_Descriptor::org.eclipse.jst.jee.server:S01L12_Deployment_Descriptor::jst.web::2.5"/>
+  </server>
+</servers>

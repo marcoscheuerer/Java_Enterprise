@@ -1,0 +1,11 @@
+package mao.linatrix.phone;
+
+public class Main {
+
+	public static void main(String[] args) {
+		OnePlus5 phone = new OnePlus5();
+		int processor = phone.processor();
+		System.out.println("Processor: " + processor);
+	}
+	
+}

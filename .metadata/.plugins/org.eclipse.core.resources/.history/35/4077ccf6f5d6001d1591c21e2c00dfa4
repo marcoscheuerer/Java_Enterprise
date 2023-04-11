@@ -1,0 +1,11 @@
+package mao.linatrix;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// Create object (make an instance) "car" of class "Car"
+		Car car = new Car();
+		
+	}
+
+}

@@ -1,0 +1,12 @@
+package mao.linatrix.phone;
+
+public class OnePlus5 implements Phone{
+
+	@Override
+	public String processor() {
+		return 835;
+	}
+
+
+	
+}

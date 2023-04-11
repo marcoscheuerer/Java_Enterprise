@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;mao.linatrix.jsp&apos; to &apos;mao.linatrix.servlet&apos;&#x0A;- Original project: &apos;S01L12_Annotations&apos;&#x0A;- Original element: &apos;S01L12_Annotations/src/main/java/mao.linatrix.jsp&apos;&#x0A;- Renamed element: &apos;S01L12_Annotations/src/main/java/mao.linatrix.servlet&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;mao.linatrix.jsp&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;mao.linatrix.jsp" name="mao.linatrix.servlet" qualified="false" references="true" stamp="1681178016017" textual="false" version="1.0"/>
+</session>
