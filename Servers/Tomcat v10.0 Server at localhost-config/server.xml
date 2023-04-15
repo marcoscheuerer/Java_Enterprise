@@ -134,7 +134,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="S01L09_JSP_declarations" path="/S01L09_JSP_declarations" reloadable="true" source="org.eclipse.jst.jee.server:S01L09_JSP_declarations"/><Context docBase="S01L08_JSP_scriptlets" path="/S01L08_JSP_scriptlets" reloadable="true" source="org.eclipse.jst.jee.server:S01L08_JSP_scriptlets"/><Context docBase="S01L10_JSP_comment" path="/S01L10_JSP_comment" reloadable="true" source="org.eclipse.jst.jee.server:S01L10_JSP_comment"/><Context docBase="S01L12_Annotations" path="/S01L12_Annotations" reloadable="true" source="org.eclipse.jst.jee.server:S01L12_Annotations"/><Context docBase="S01L12_Deployment_Descriptor" path="/S01L12_Deployment_Descriptor" reloadable="true" source="org.eclipse.jst.jee.server:S01L12_Deployment_Descriptor"/></Host>
+      <Context docBase="S01L14_Reading_URL_parameters" path="/S01L14_Reading_URL_parameters" reloadable="true" source="org.eclipse.jst.jee.server:S01L14_Reading_URL_parameters"/><Context docBase="S01L15_Include_files_in_JSP_page" path="/S01L15_Include_files_in_JSP_page" reloadable="true" source="org.eclipse.jst.jee.server:S01L15_Include_files_in_JSP_page"/></Host>
     </Engine>
   </Service>
 </Server>
